@@ -6,7 +6,7 @@ mmap: true
 trimsuffix: 
 - "\n"
 parameters:
-  model: huggingface://TheBloke/phi-2-GGUF/phi-2.Q8_0.gguf
+  model: https://hf-mirror.com/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q8_0.gguf
   temperature: 0.2
   top_k: 40
   top_p: 0.95
