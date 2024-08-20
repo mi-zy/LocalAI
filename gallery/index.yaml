@@ -5230,11 +5230,11 @@
       uri: "https://ggml.ggerganov.com/ggml-model-whisper-tiny.en-q8_0.bin"
       sha256: 5bc2b3860aa151a4c6e7bb095e1fcce7cf12c7b020ca08dcec0c6d018bb7dd94
 ## Bert embeddings
-- url: "github:mudler/LocalAI/gallery/bert-embeddings.yaml@master"
+- url: "github:mi-zy/LocalAI/gallery/bert-embeddings.yaml@master"
   name: "bert-embeddings"
   license: "Apache 2.0"
   urls:
-    - https://huggingface.co/skeskinen/ggml
+    - https://hf-mirror.com/skeskinen/ggml
   tags:
     - embeddings
   description: |
